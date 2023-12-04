@@ -1,0 +1,55 @@
+body {
+    background-image: url(img/Background-home.jpg);
+}
+
+#logo-navbar {
+    width: 70px;
+}
+
+.navbar {
+    font-family: 'Inter', sans-serif;
+}
+
+.content-kanan {
+    font-family: Poetsen-one;
+}
+
+span {
+    color: #134160;
+}
+
+#btn-coba-sekarang {
+    background-color: #0077B6;
+    height: 50px;
+    width: 200px;
+    font-family: Poetsen-one;
+}
+
+@font-face {
+    font-family: Poetsen-one;
+    src: url(font/PoetsenOne-Regular.ttf);
+}
+
+.footer {
+    background : #abf0ff;
+    color: #8a8a8a;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.footer hr {
+    border: none;
+    background: #b5b5b5;
+    height: 1px;
+    margin: 20px 0;
+}
+
+#instagram {
+    width: 20px;
+}
+
+.copyright {
+    text-align: center;
+}
